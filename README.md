@@ -57,6 +57,5 @@ C. label_manipulate
   D. excel_sc_dt
   E. face_recog
   F. landmark
-  G. attention_score
-  H. test
-  I. tools
+  G. test
+  H. tools
