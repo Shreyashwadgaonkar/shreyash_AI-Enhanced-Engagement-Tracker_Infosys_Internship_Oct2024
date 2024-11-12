@@ -1,4 +1,6 @@
-Image Processing
+
+
+      image Processing
 Libraries or Frame Works Used - opencv
 Version - 4.10.0.84
 Developed Logics - 
@@ -19,7 +21,7 @@ Developed Logics -
   O. concatenation
 
 
-     Video Processing
+     video Processing
 Libraries or Frame Works Used - opencv
 Version - 4.10.0.84
 Developed Logics -
