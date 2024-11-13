@@ -1,4 +1,4 @@
-# Guruteja AI-Enhanced Engagement Tracker for Young Learners (Infosys Internship - October 2024)
+# Shreyash AI-Enhanced Engagement Tracker for Young Learners (Infosys Internship - October 2024)
 
 ## Image Processing
 
