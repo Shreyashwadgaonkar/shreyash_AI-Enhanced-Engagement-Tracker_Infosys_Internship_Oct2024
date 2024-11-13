@@ -18,15 +18,14 @@ Developed Logics -
   L. rotate
   M. stack
   N. template
-  O. concatenation
 
 
      video Processing
 Libraries or Frame Works Used - opencv
 Version - 4.10.0.84
 Developed Logics -
-A. multivideo
-B. fps
+A. fps
+B. multivideo
 C. save
 D. stack
 E. stream
@@ -51,11 +50,11 @@ C. label_manipulate
   datetime == 5.5
   imutils == 0.5.4
       Developed Logics -
-  A. atten_score
-  B. average_attention_score
-  C. excel_sc
-  D. excel_sc_dt
-  E. face_recog
+  A. Face_Recog
+  B. atten_score
+  C. average_attention_score
+  D. excel_sc
+  E. excel_sc_dt
   F. landmark
   G. test
   H. tools
