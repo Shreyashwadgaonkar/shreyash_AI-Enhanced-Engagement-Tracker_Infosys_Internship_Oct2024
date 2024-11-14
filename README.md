@@ -1,4 +1,5 @@
-# Shreyash AI-Enhanced Engagement Tracker for Young Learners (Infosys Internship - October 2024)
+#
+ Shreyash AI-Enhanced Engagement Tracker for Young Learners (Infosys Internship - October 2024)
 
 ## Image Processing
 
@@ -243,7 +244,7 @@ This performs real-time face recognition to identify whether the person in live 
 
 - *Output:*
 
-![Screenshot ](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/02ef414e5188b3ce7c0b3cf56c4b5a8e46fe99b9/face_recog.png)
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/02ef414e5188b3ce7c0b3cf56c4b5a8e46fe99b9/face_recog.png)
 
 #### B) atten_score
 This script captures real-time webcam video to recognize "His/Her's face" and assess attentiveness based on head pose:
@@ -258,13 +259,13 @@ Exits on 'q' press, ensuring the final save to Excel.
 
 - *Input:*
 
-![shreyash]()
+![shreyash](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/b12e15bee9dc12259818ed89f57aab3c65a6a430/face%20recognition/shreyash.jpg)
 
 - *Output:*
 
-![]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/fb4c117a444c7ec787443cc4c4116b1fcfb7fa92/atten_score.png)
 
-![]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/44dac9d2ab3c82977499660946ca89705744d15c/atten_score_excel.png)
 
 #### C) avg_atten_score
 This captures webcam video, performs face recognition for "His/Her's face," calculates attentiveness based on the head pose, and logs the data into an Excel file every 30 seconds. Here is a summary of its key actions:
@@ -279,13 +280,13 @@ The final output includes an Excel file with logged details and an average atten
 
 - *Input:*
 
-![shreyash]()
+![shreyash](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/b12e15bee9dc12259818ed89f57aab3c65a6a430/face%20recognition/shreyash.jpg)
 
 - *Output:*
 
-![]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/fb4c117a444c7ec787443cc4c4116b1fcfb7fa92/avg_atten_score.png)
 
-![]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/44dac9d2ab3c82977499660946ca89705744d15c/avg_atten_excel.png)
 
 #### D) excel_sc
 This is for face recognition with time-based logging looks well-structured and includes the logic to save screenshots and log attendance into an Excel file.
@@ -298,13 +299,13 @@ This is for face recognition with time-based logging looks well-structured and i
 
 - *Input:*
 
-![teja]()
+![shreyash](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/b12e15bee9dc12259818ed89f57aab3c65a6a430/face%20recognition/shreyash.jpg)
 
 - *Output:*
 
-![Guru_Teja_2024-11-07_20-39-40]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/fb4c117a444c7ec787443cc4c4116b1fcfb7fa92/excel_sc.png)
 
-![Screenshot 2024-11-13 183551]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/44dac9d2ab3c82977499660946ca89705744d15c/excel_sc_e.png)
 
 #### E) excel_sc_dt
 This uses OpenCV and face_recognition to detect and recognize a specific face (His/Her's) from a webcam feed. Upon recognition, a screenshot is saved, and the attendance (name, date, time, screenshot path) is logged into an Excel file. The script processes every second frame, saves data every 30 seconds, and ensures attendance is only logged every 5 minutes for the same person. The attendance data is stored in a DataFrame and periodically exported to an Excel file.
@@ -317,13 +318,13 @@ Key Features:
 
 - *Input:*
 
-![teja]()
+![shreyash](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/b12e15bee9dc12259818ed89f57aab3c65a6a430/face%20recognition/shreyash.jpg)
 
 - *Output:*
 
-![Guru_Teja_2024-11-07_20-31-07]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/fb4c117a444c7ec787443cc4c4116b1fcfb7fa92/excel_sc_dt.png)
 
-![Screenshot 2024-11-13 183611]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/44dac9d2ab3c82977499660946ca89705744d15c/excel_sc_dt_e.png)
 
 #### F) landmark
 This code is a face recognition and attentiveness tracking system that operates in real time. Key functions include:
@@ -337,36 +338,36 @@ The system continues until you press 'q' to exit.
 
 - *Input:*
 
-![teja]()
+![shreyash](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/b12e15bee9dc12259818ed89f57aab3c65a6a430/face%20recognition/shreyash.jpg)
 
 - *Output:*
 
-![Guru Teja_2024-11-07_20-16-27]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/fb4c117a444c7ec787443cc4c4116b1fcfb7fa92/landmark.png)
 
-![Screenshot 2024-11-13 181911]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/44dac9d2ab3c82977499660946ca89705744d15c/landmark_excel.png)
 
 #### G) test
 This performs real-time face recognition to identify He/She in a live video feed, logging each recognition event with the date and time into an Excel file every 30 seconds. It tracks recognition intervals to avoid duplicate entries and displays He/She or "Not He/She" based on identification.
 
 - *Input:*
 
-![teja]()
+![shreyash](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/b12e15bee9dc12259818ed89f57aab3c65a6a430/face%20recognition/shreyash.jpg)
 
 - *Output:*
 
-![Screenshot 2024-11-13 175926]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/fb4c117a444c7ec787443cc4c4116b1fcfb7fa92/test.png)
 
-![Screenshot 2024-11-13 181026]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/44dac9d2ab3c82977499660946ca89705744d15c/testexcel.png)
 
 #### H) tools
 This performs real-time face recognition using the live camera feed to identify He/She. Each time a face is recognized, it records the name, date, and time in a data frame. Once a recognition count of 5 is reached, it saves the records to an Excel file, then resets the counter and DataFrame. It displays "He/She's name" or "Not He/She's name" over the video feed, and pressing 'q' exits the program with a final save of any remaining records.
 
 - *Input:*
 
-![teja]()
+![shreyash](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/b12e15bee9dc12259818ed89f57aab3c65a6a430/face%20recognition/shreyash.jpg)
 
 - *Output:*
 
-![Screenshot 2024-11-13 175926]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/fb4c117a444c7ec787443cc4c4116b1fcfb7fa92/tools.png)
 
-![Screenshot 2024-11-13 181459]()
+![](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/44dac9d2ab3c82977499660946ca89705744d15c/toolsexcel.png)
