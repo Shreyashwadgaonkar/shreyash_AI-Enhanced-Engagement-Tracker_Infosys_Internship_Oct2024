@@ -131,7 +131,7 @@ This resizes an image to specified dimensions.
 
 - *Output:*
  
-  ![Resized Image](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/eebcdb6a966d86f32ee3d15a587730feaa642b0e/resize.png)
+  ![Resized Image](https://github.com/Shreyashwadgaonkar/shreyash_AI-Enhanced-Engagement-Tracker_Infosys_Internship_Oct2024/blob/cd09112c04ac5f48f0ff31e8c8cef4c8b4533d8d/Screenshot%202024-11-14%20181013.png)
 
 #### L) image_rotate
 This rotates an image by 90 degrees around its center.
